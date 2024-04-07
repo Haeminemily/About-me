@@ -5,9 +5,8 @@
 🎨 This webpage is my portfolio for projects.   
 💪 Skills: R / Python / SAS / Excel / Word  
 
-- ⚠️ I’m currently working on this page.
-- 📷 Following photo was taken at the Smith Rock State Park, Oregon.
-
+- ⚠️ I’m currently working on this page.  
+- 📷 Following photo was taken at the Smith Rock State Park, Oregon.  
 
 ![](emily-image.jpg)
 ---
