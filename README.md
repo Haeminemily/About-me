@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![profile](emily-image.jpg)
-*Graduate students in MS Biostatistics at Oregon Health and Science University*
+I'm Haemin Lee, an expected graduate student in MS Biostatistics at OHSU. 
+
 
 ---
