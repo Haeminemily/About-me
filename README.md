@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Haemin.
+#### I'm a graduate student in MS Biostatistics.
+![I'm a graduate student in MS Biostatistics.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Haemin, an expected graduate student in MS Biostatistics at OHSU. I live in Portland, Oregon with my family. Following photo was taken at the Smith Rock State Park.
+I like to explore data visualizations using R and Python. This webpage is my portfolio for projects. Following photo was taken at the Smith Rock State Park. 
+
+Skills: R / Python / SAS / Excel / Word
+
+- 🔭 I’m currently working on this page. 
+
 
 ![](emily-image.jpg)
 ---
